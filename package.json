@@ -1,0 +1,26 @@
+{
+  "name": "upstreaminit",
+  "version": "1.0.0",
+  "description": "Add upstream url for a forked repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-conf/upstreaminit.git"
+  },
+  "keywords": [
+    "upstream",
+    "github",
+    "sync-forked",
+    "fork",
+    "repository"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gh-conf/upstreaminit/issues"
+  },
+  "homepage": "https://github.com/gh-conf/upstreaminit#readme"
+}
