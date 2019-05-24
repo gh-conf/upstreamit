@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/gh-conf/upstreaminit/issues"
   },
-  "homepage": "https://github.com/gh-conf/upstreaminit#readme"
+  "homepage": "https://github.com/gh-conf/upstreaminit#readme",
+  "dependencies": {
+    "@gh-conf/gh-api": "^1.0.0",
+    "@gh-conf/gh-conf-read": "^1.1.0",
+    "@gh-conf/gh-conf-write": "^1.1.0",
+    "log-symbols": "^3.0.0",
+    "strmat": "^1.0.0"
+  }
 }
