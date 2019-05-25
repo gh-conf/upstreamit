@@ -16,6 +16,7 @@
     "url": "git+https://github.com/gh-conf/upstreaminit.git"
   },
   "keywords": [
+    "upstreamit",
     "upstream",
     "github",
     "sync-forked",
