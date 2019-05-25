@@ -1,5 +1,5 @@
 {
-  "name": "upstreaminit",
+  "name": "upstreamit",
   "version": "1.0.0",
   "description": "Add upstream url for a forked repository",
   "main": "index.js",
@@ -7,6 +7,9 @@
     "lint": "eslint --ignore-path .gitignore .",
     "pretest": "eslint --ignore-path .gitignore .",
     "test": "node_modules/mocha/bin/mocha tests/**"
+  },
+  "bin": {
+    "upstreamit": "index.js"
   },
   "repository": {
     "type": "git",
