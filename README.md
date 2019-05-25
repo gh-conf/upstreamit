@@ -1,4 +1,4 @@
-# upstreaminit
+# upstreamit
 
 [![Build](https://img.shields.io/travis/com/gh-conf/upstreamit.svg)](https://travis-ci.com/gh-conf/upstreamit/)
 
