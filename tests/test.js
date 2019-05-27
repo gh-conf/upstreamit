@@ -8,7 +8,7 @@ const { Upstreamit } = require('../lib');
 describe('validate upstreaminit', () => {
   it('upstream details should be present', async () => {
     let config = await readConf(process.cwd());
-    let modifiedConfig = config.replace('https://github.com/gh-conf/upstreaminit', 'https://github.com/arshadkazmi42/taskcluster');
+    let modifiedConfig = config.replace('https://github.com/gh-conf/upstreamit', 'https://github.com/arshadkazmi42/taskcluster');
     await writeConf(process.cwd(), modifiedConfig);
     await Upstreamit(process.cwd());
     await writeConf(process.cwd(), config);
