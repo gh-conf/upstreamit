@@ -1,6 +1,12 @@
 # upstreamit
 
 [![Build](https://img.shields.io/travis/com/gh-conf/upstreamit.svg)](https://travis-ci.com/gh-conf/upstreamit/)
+[![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/upstreamit.svg)](https://github.com/gh-conf/upstreamit)
+[![LICENSE](https://img.shields.io/npm/l/@gh-conf/upstreamit.svg)](https://github.com/gh-conf/upstreamit/blob/master/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dt/@gh-conf/upstreamit.svg)](https://www.npmjs.com/package/@gh-conf/upstreamit)
+[![NPM Version](https://img.shields.io/npm/v/@gh-conf/upstreamit.svg)](https://www.npmjs.com/package/@gh-conf/upstreamit)
+[![Contributors](https://img.shields.io/github/contributors/gh-conf/upstreamit.svg)](https://github.com/gh-conf/upstreamit/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/gh-conf/upstreamit.svg)](https://github.com/gh-conf/upstreamit/commits/master)
 
 CLI tool to configure upstream from parent repository. This works only for forked repositories.
 
