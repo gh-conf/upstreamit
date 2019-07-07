@@ -18,22 +18,27 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@gh-conf/gh-api@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@gh-conf/gh-api/-/gh-api-1.0.0.tgz#f6cd282b089ad06a6b7ce7e7e5daa822bd19fa86"
-  integrity sha512-2Uf4t2lgQkxneywZQ/0h1zodc/efvdtK8NhjSlrl/Z5aGU8Rw3Eu8UXFcUr5gTT6sxWS69DGSHrG2spZx9w+1g==
+"@gh-conf/gh-api@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@gh-conf/gh-api/-/gh-api-1.0.1.tgz#97ea77ad376c74a70e970c03a0c34f4e52205326"
+  integrity sha512-sJBuqfJpMw/hd38yaSmsORPlfMpDvoI3pP5z3gpBagGSTKlrsz6OnmboavbAmVSiDthJ/qFYFsxo6ikodyeKEg==
   dependencies:
-    "@gh-conf/gh-conf-constants" "^1.0.3"
+    "@gh-conf/gh-conf-constants" "^1.0.5"
     install "^0.12.2"
     lodash "^4.17.11"
     node-fetch "^2.6.0"
     npm "^6.9.0"
     strmat "^1.0.0"
 
-"@gh-conf/gh-conf-constants@^1.0.0", "@gh-conf/gh-conf-constants@^1.0.3", "@gh-conf/gh-conf-constants@^1.0.4":
+"@gh-conf/gh-conf-constants@^1.0.0", "@gh-conf/gh-conf-constants@^1.0.4":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@gh-conf/gh-conf-constants/-/gh-conf-constants-1.0.4.tgz#d455dd9060a8b45c064e2563867497bc44f2dcf9"
   integrity sha512-jpC9dmG0Y6YeU2qo6cZMfVnI0ysJQnlKr6qnUtoe8FUCzkT1VtLBGpSdh2Nhm0CrlIQSa2txztOQikYCjdmxPg==
+
+"@gh-conf/gh-conf-constants@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@gh-conf/gh-conf-constants/-/gh-conf-constants-1.0.5.tgz#d83f9907614f976fca978dd51a0f8fe45bc35c4b"
+  integrity sha512-uN02Jp+Cevo2wacL3wO+6/Sj+Q+3BvYJRr9W1meHzDFAGpPQgzBdeRBe9mRPaKhMx/Ivb2pm6g0fFS+pgFXSFA==
 
 "@gh-conf/gh-conf-parse@^1.0.0":
   version "1.0.0"
