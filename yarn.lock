@@ -40,14 +40,15 @@
   resolved "https://registry.yarnpkg.com/@gh-conf/gh-conf-constants/-/gh-conf-constants-1.0.5.tgz#d83f9907614f976fca978dd51a0f8fe45bc35c4b"
   integrity sha512-uN02Jp+Cevo2wacL3wO+6/Sj+Q+3BvYJRr9W1meHzDFAGpPQgzBdeRBe9mRPaKhMx/Ivb2pm6g0fFS+pgFXSFA==
 
-"@gh-conf/gh-conf-parse@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@gh-conf/gh-conf-parse/-/gh-conf-parse-1.0.0.tgz#8950a68f842b84e60be2780c16e0ed030a8e0115"
-  integrity sha512-KGBeN34tTKt9kphLkhZfrkn2R/FKgC+Sa6ujSExOgZsECkFAn5p3JdX58NMkKhiP/dnQ7YRtLFrvN/2RF1HhLw==
+"@gh-conf/gh-conf-parse@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@gh-conf/gh-conf-parse/-/gh-conf-parse-1.0.1.tgz#aa2a375dd95d48f684e47ece86013e7298c1e193"
+  integrity sha512-KekaucrAcsluP4FaKE9bOn8cXhLPGeEGyqbtvIQOpPzXuFz6Ud6gr0YPJWVuvdO5+Hb13LXgrXImdHKgjyQ/+g==
   dependencies:
     "@gh-conf/gh-conf-constants" "^1.0.4"
     iniparser "^1.0.5"
     lodash "^4.17.11"
+    remove-trailing-slash "^0.1.0"
 
 "@gh-conf/gh-conf-path@^1.0.0":
   version "1.0.0"
@@ -2790,6 +2791,11 @@ registry-url@^3.0.3:
   integrity sha1-PU74cPc93h138M+aOBQyRE4XSUI=
   dependencies:
     rc "^1.0.1"
+
+remove-trailing-slash@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/remove-trailing-slash/-/remove-trailing-slash-0.1.0.tgz#1498e5df0984c27e49b76ebf06887ca2d01150d2"
+  integrity sha1-FJjl3wmEwn5Jt26/Boh8otARUNI=
 
 request@^2.87.0, request@^2.88.0:
   version "2.88.0"
