@@ -1,6 +1,6 @@
 {
   "name": "@gh-conf/upstreamit",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Add upstream url for a forked repository",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/gh-conf/upstreaminit#readme",
   "dependencies": {
-    "@gh-conf/gh-api": "^1.0.1",
+    "@gh-conf/gh-api": "^1.1.0",
     "@gh-conf/gh-conf-parse": "^1.0.1",
     "@gh-conf/gh-conf-read": "^1.1.0",
     "@gh-conf/gh-conf-write": "^1.1.0",
