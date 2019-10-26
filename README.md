@@ -35,6 +35,10 @@ Read our contributing [guide](CONTRIBUTING.md) to get started with contributing 
 ## Contributors
 
 Thank you to all the contributors who have helped us in making this project better 🙌
-
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
-<a href="https://github.com/nileshkumar"><img src="https://github.com/nileshkumar.png" width="30" /></a>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="100px;" alt="Arshad Kazmi"/><br /><sub><b>Arshad Kazmi</b></sub></a><br /><a href="" title="Coding">💻 </a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a><a href="" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/nileshkumar"><img src="https://github.com/nileshkumar.png" width="100px;" alt="Arshad Kazmi"/><br /><sub><b>Nilesh Kumar</b></sub></a><br /><a href="" title="Coding">💻 </a></td>
+    <td align="center"><a href="https://github.com/kozlovvski"><img src="https://github.com/kozlovvski.png" width="100px;" alt="Arshad Kazmi"/><br /><sub><b>Michał Kozłowski</b></sub></a><br /><a href="" title="Coding">💻 </a></td>
+  </tr>
+</table>
