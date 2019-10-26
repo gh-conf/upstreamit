@@ -37,3 +37,5 @@ Read our contributing [guide](CONTRIBUTING.md) to get started with contributing 
 Thank you to all the contributors who have helped us in making this project better 🙌
 
 <a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
+<a href="https://github.com/nileshkumar"><img src="https://github.com/nileshkumar.png" width="30" /></a>
+<a href="https://github.com/kozlovvski"><img src="https://github.com/kozlovvski.png" width="30" /></a>
