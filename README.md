@@ -1,6 +1,6 @@
 # upstreamit
 
-[![Build](https://img.shields.io/travis/com/gh-conf/upstreamit.svg)](https://travis-ci.com/gh-conf/upstreamit/)
+![Build](https://github.com/gh-conf/upstreamit/actions/workflows/nodejs.yml/badge.svg)
 [![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/upstreamit.svg)](https://github.com/gh-conf/upstreamit)
 [![LICENSE](https://img.shields.io/npm/l/@gh-conf/upstreamit.svg)](https://github.com/gh-conf/upstreamit/blob/master/LICENSE)
 [![NPM Downloads](https://img.shields.io/npm/dt/@gh-conf/upstreamit.svg)](https://www.npmjs.com/package/@gh-conf/upstreamit)
@@ -32,10 +32,3 @@ You can log any issues or suggestion related to this library [here](https://gith
 
 Read our contributing [guide](CONTRIBUTING.md) to get started with contributing to the codebase.
 
-## Contributors
-
-Thank you to all the contributors who have helped us in making this project better 🙌
-
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
-<a href="https://github.com/nileshkumar"><img src="https://github.com/nileshkumar.png" width="30" /></a>
-<a href="https://github.com/kozlovvski"><img src="https://github.com/kozlovvski.png" width="30" /></a>
